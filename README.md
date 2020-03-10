@@ -6,3 +6,5 @@ Place device on a group track. When a track inside the group is selected, all ot
 Link multiple devices together by giving them the same name and the groups will work together for multi-mic recording.
 
 While Ableton is recording, all functionality is paused, so that selecting a track in the middle of recording will not ruin the recording.
+
+bug: device functions if live set it loaded even when it's turned off
